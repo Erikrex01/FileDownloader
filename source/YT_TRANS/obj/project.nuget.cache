@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "njxaVv5XYDafb4Qk3qo/nvGZz8DvZH/dOOePjl7djmGmy1TrpUxdavF13o3PrZA2twYw+MiPw8Gjs5MyWaT5oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bcapy\\source\\repos\\YT_TRANS\\YT_TRANS\\YT_TRANS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bcapy\\.nuget\\packages\\newtonsoft.json\\6.0.6\\newtonsoft.json.6.0.6.nupkg.sha512",
+    "C:\\Users\\bcapy\\.nuget\\packages\\youtubeextractor\\0.10.11\\youtubeextractor.0.10.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'YoutubeExtractor 0.10.11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "YoutubeExtractor",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
